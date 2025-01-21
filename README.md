@@ -1,13 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hoon's%20Hub&fontSize=50)
 
+<div align="right">
+  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/os-hoon/os-hoon.git&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
+</div>
+
+<br><br>
 <div align="center">
 
 😊항상 발전하려고 노력 하는 백엔드 개발자입니다.
 
 Email : <hi1>shoon0728@naver.<hi2>com
-
+<br><br>
 
 ### 🗣 Languages
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
