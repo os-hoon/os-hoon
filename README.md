@@ -42,3 +42,7 @@ Email : <hi1>shoon0728@naver.<hi2>com
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 
 </div>
+<br><br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
