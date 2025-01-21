@@ -24,7 +24,7 @@ Email : <hi1>shoon0728@naver.<hi2>com
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
 
 ### ☁ Server
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white" />
 <img src="https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazon-ec2&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
